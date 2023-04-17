@@ -608,7 +608,7 @@ h2 {
 
 .arrow-down {
     position: absolute;
-    top: 20px;
+    top: 15px;
     right: 30px;
     transform: rotate(90deg);
     width: 15px;
